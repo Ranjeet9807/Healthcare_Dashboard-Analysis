@@ -1,4 +1,4 @@
-# 🏥 Healthcare Dashboard Analysis| Power BI
+# 🏥 Healthcare Analytics Dashboard| Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
@@ -10,7 +10,7 @@
 
 # 📌 Project Overview
 
-The **Healthcare Dashboard Analysis** is an interactive Power BI solution designed to analyze hospital operations, patient care, financial performance, and clinical analytics.
+The **Healthcare Analytics Dashboard** is an interactive Power BI solution designed to analyze hospital operations, patient care, financial performance, and clinical analytics.
 
 The dashboard enables healthcare administrators to monitor KPIs, analyze patient trends, evaluate treatment costs, explore hospital records, and gain actionable business insights for data-driven decision-making.
 
@@ -164,10 +164,10 @@ Approximately **5,000 hospital records** were analyzed.
 # 📁 Repository Structure
 
 ```
-Healthcare Dashboard Analysis-PowerBI
+Healthcare Analytics Dashboard-PowerBI
 │
 ├── Dashboard
-│   └── Healthcare Dashboard Analysis.pbix
+│   └── Healthcare Analytics Dashboard.pbix
 │
 ├── Dataset
 │   ├── patients.csv
